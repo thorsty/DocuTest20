@@ -1,0 +1,24 @@
+Welcome to DocuTest20 documentation!
+======================================
+
+Another Header
+==============
+
+Here is some random shit.
+
+	print 'hello'
+	>> hello
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Contents:
+
+   license
+   help
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
